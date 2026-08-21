@@ -1,0 +1,22 @@
+{
+  "agents": {
+    "rusty": {
+      "name": "Rusty",
+      "role": "Spec-Kit Expert & Lead Planner",
+      "model": "claude-opus-4.8",
+      "cast_date": "2026-08-21"
+    },
+    "flash": {
+      "name": "Flash",
+      "role": "Implementer",
+      "model": "claude-sonnet-4.6",
+      "cast_date": "2026-08-21"
+    },
+    "smoke": {
+      "name": "Smoke",
+      "role": "Tester (Happy-Path Smoke)",
+      "model": "claude-haiku-4.5",
+      "cast_date": "2026-08-21"
+    }
+  }
+}
